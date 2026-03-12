@@ -1,16 +1,36 @@
-## Hi there 👋
+# Sonicar Mayora
 
-<!--
-**SonicarMayora/SonicarMayora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Business Intelligence Specialist | Machine Learning
 
-Here are some ideas to get you started:
+Data professional with more than 14 years of experience in statistics, data analysis and business intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently based in Germany and recently completed a Data Science Weiterbildung focused on Python, Machine Learning and SQL.
+
+My work focuses on transforming data into insights that support business decision-making.
+
+## Technical Skills
+
+- Python (Pandas, Scikit-learn, Matplotlib)
+- SQL
+- Power BI
+- Qlik Sense
+- SPSS
+- R
+- Machine Learning
+- Statistical Analysis
+- Data Visualization
+
+## Projects
+
+Here you will find projects related to:
+
+- Machine Learning
+- Data Analysis
+- Business Intelligence dashboards
+
+More projects will be added soon.
+
+## Contact
+
+LinkedIn: www.linkedin.com/in/sonicar-mayora
+Location: Germany
